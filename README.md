@@ -21,6 +21,7 @@
   ##
  
 <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apihewllsing=anuraghazra&hide=&hide=stars,commits,prs,issues,contribs)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiHewllsinganuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiHewllsinganuraghazra&hide=&hide=stars,commits,prs,issues,contribs)
   
 </div>
