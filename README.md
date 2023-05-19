@@ -1,4 +1,4 @@
-### Hi there, welcome to my world! 👋
+### Hi there, welcome to my world! 💻🌎
 
 
 <div>
@@ -27,6 +27,4 @@
   
   ##
  
-<div>
- 
-</div>
+
