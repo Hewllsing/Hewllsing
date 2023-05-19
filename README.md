@@ -21,6 +21,6 @@
   ##
  
 <div>
- <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=Hewllsing)](https://github.com/anuraghazra/github-readme-stats)">
- <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hewllsing&show_icons=true&theme=radical)">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hewllsing(https://github.com/anuraghazra/github-readme-stats)">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hewllsing&show_icons=true&theme=radical">
 </div>
