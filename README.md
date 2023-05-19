@@ -2,7 +2,7 @@
 
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hewllsing&show_icons=true&theme=onedark">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hewllsing&show_icons=true&theme=synthwave">
 </div>
   
   ##
