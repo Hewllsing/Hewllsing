@@ -19,9 +19,9 @@
 
   ##
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,git,cypress,nodejs,postman,mysql,react,html,css,wordpress,bootstrapfigma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,git,cypress,nodejs,postman,mysql,react,html,css,wordpress,bootstrap&theme=light" />
   </a>
 </p>
   
@@ -35,15 +35,13 @@
 </div>
 -->
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/Ldosouza">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
- 
    <a href="mailto:leonardo23s.pt@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
-  
   <a href="https://instagram.com/theyousek">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
