@@ -6,8 +6,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hewllsing&layout=compact&theme=radical">
 </div>
   
-  ##
- 
+<!--
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -16,6 +15,15 @@
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Cy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
 </div>
+-->
+
+  ##
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,git,cypress,nodejs,postman,mysql,react,html,css,wordpress,bootstrap " />
+  </a>
+</p>
   
   ##
  
@@ -28,10 +36,12 @@
   
   ##
 
- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hewllsing/Hewllsing/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hewllsing/Hewllsing/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hewllsing/Hewllsing/output/github-contribution-grid-snake.svg">
 </picture>
+
+
  
 
