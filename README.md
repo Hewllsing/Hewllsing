@@ -14,6 +14,8 @@
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Cy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
+  <img align="center" alt="Leo-Py" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg"/>
+  
 </div>
 -->
 
@@ -48,8 +50,8 @@
 </p> 
 -->
   
-  ##
-
+  ## 
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hewllsing/Hewllsing/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hewllsing/Hewllsing/output/github-contribution-grid-snake.svg">
