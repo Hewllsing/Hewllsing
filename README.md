@@ -1,16 +1,11 @@
 ### Hi there, welcome to my world! 💻🌎
 
-
-<div>
-  <img height="180em" src="https://github-readme-stats-a47gdvrty-leonardo-souzas-projects-cd2e2c90.vercel.app/api?username=Hewllsing&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-a47gdvrty-leonardo-souzas-projects-cd2e2c90.vercel.app/api/top-langs/?username=Hewllsing&layout=compact&theme=radical" />
-</div>
- <!-- 
+ <!-- STATUS das linguagens -->
   <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hewllsing&show_icons=true&theme=radical">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hewllsing&layout=compact&theme=radical">
   </div>
--->
+  
 <!--
 
 MODELO ANTIGO DE ICONS
