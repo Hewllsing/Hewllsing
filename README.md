@@ -7,6 +7,9 @@
 </div>
   
 <!--
+
+MODELO ANTIGO DE ICONS
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -20,10 +23,10 @@
 -->
 
   ##
-
+<!-- MODELO ATUAL DE ICONS https://github.com/tandpfun/skill-icons#readme PARA CONSULTAR -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,git,cypress,nodejs,postman,mysql,react,html,css,wordpress,bootstrap&theme=light" />
+    <img src="https://skillicons.dev/icons?i= c, cpp, cs, java, py, js, linux, git, mysql, react, html, css, wordpress, bootstrap&theme=light" />
   </a>
 </p>
   
