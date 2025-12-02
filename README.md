@@ -1,24 +1,28 @@
 ### Hi there, welcome to my world! 💻🌎
 
- <!-- STATUS das linguagens -->
+ <!-- STATUS das linguagens 
+ 
   <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hewllsing&show_icons=true&theme=radical">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hewllsing&layout=compact&theme=radical">
-  </div>
-  
+  </div>-->
+
+
+
+  <br> <br> <br>
 <!--
 
 MODELO ANTIGO DE ICONS
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+<br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-Cy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"/>
-  <img align="center" alt="Leo-Py" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg"/>
-  
+  <img align="center" alt="Leo-Py" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg"/> 
 </div>
 -->
 
@@ -55,6 +59,7 @@ MODELO ANTIGO DE ICONS
   
   ## 
   
+<!-- SNAKE COMMIT'S -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hewllsing/Hewllsing/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hewllsing/Hewllsing/output/github-contribution-grid-snake.svg">
