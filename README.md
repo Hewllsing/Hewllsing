@@ -30,7 +30,7 @@ MODELO ANTIGO DE ICONS
 <!-- MODELO ATUAL DE ICONS https://github.com/tandpfun/skill-icons#readme PARA CONSULTAR -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,py,flask,js,vue,nodejs,linux,git,mysql,react,html,css,wordpress,bootstrap,postman" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,py,flask,js,vue,react,nodejs,linux,git,mysql,html,css,wordpress,bootstrap,postman" />
   </a>
 </p>
   
