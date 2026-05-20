@@ -30,7 +30,7 @@
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman,wordpress,vscode,visualstudio,ai" />
+  <img src="https://skillicons.dev/icons?i=git,linux,postman,wordpress,vscode,visualstudio,idea,powershell,ai" />
 </p>
 
 ---
