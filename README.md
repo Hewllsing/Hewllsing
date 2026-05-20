@@ -68,9 +68,9 @@ Integration API developed to communicate with Bluehill/Instron systems using C# 
 - Entity Framework Core
 
 ---
-<!--
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+<!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hewllsing&show_icons=true&theme=tokyonight"/>
   
