@@ -24,9 +24,16 @@
 </p>
 
 ### Database
+<!--
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+-->
+<p>
+  <img align="center" alt="SQL Server" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</p>
+
 
 ### Tools & Platforms
 <p>
@@ -69,9 +76,16 @@ Integration API developed to communicate with Bluehill/Instron systems using C# 
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hewllsing&layout=compact&theme=tokyonight"/>
 </div>
+-->
+
+<div align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hewllsing&theme=tokyonight"/>
+  <br/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hewllsing&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hewllsing&theme=tokyonight"/>
+</div>
 
 ---
--->
 
 ## 📫 Contact
 
