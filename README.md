@@ -58,17 +58,6 @@ Integration API developed to communicate with Bluehill/Instron systems using C# 
 
 ---
 
-## 🌱 Currently Learning
-
-- ASP.NET Core MVC
-- REST APIs
-- Oracle Database
-- Software Architecture
-- Clean Code
-- Entity Framework Core
-
----
-
 ## 📊 GitHub Stats
 <!--
 <div align="center">
